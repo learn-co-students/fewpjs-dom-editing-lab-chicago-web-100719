@@ -1,0 +1,11 @@
+{
+    "emmet.includeLanguages": {
+        "erb": "html",
+        "html.erb": "html",
+        "javascript": "javascriptreact"
+
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    }
+}
